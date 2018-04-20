@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School Supplies</string>
+    <string name="textView">School Supplies</string>
+    <string name="textView5">This image corresponds to:</string>
+    <string name="button">Verify image</string>
+    <string name="button2">About</string>
+
+    <string name="textView11">Mariana University</string>
+    <string name="button4">Return</string>
+
+    <string name="txt1">"Correct"</string>
+    <string name="txt2">"Incorrect"</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">utilesEscolares</string>
+    <string name="textView">Utiles Escolares</string>
+    <string name="textView5">Esta imagen corresponde a:</string>
+    <string name="button">Verificar imagen</string>
+    <string name="button2">Acerca de</string>
+
+    <string name="textView11">Universidad Mariana</string>
+    <string name="button4">Regresar</string>
+
+    <string name="txt1">"Correcto"</string>
+    <string name="txt2">"Incorrecto"</string>
+
+</resources>
